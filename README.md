@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LSUFOX
 - 👀 I’m interested in autonomous driving, robotics
-- 🌱 I’m currently learning electrical engineering in PhD program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yhan2019@126.edu
+- 🌱 I’m currently learning electrical engineering in PhD program at LSU
+- 📫 How to reach me yhan2019@126.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
